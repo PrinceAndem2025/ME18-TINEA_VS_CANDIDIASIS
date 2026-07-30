@@ -17,8 +17,13 @@ st.set_page_config(
 # ==========================================================
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model("Tinea_Candidiasis_MobileNetV3.keras")
-    return model
+    try:
+        model = tf.keras.models.load_model("Tinea_Candidiasis_MobileNetV3.keras")
+        st.success("✅ Model loaded successfully.")
+        return model
+    except Exception as e:
+        st.error(f"❌ Error loading model: {e}")
+        st.stop()
 
 model = load_model()
 
