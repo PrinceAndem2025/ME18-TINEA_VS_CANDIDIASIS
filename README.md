@@ -109,7 +109,7 @@ git push -u origin main
 | Name | Registration Number | GitHub Username |
 |------|---------------------|------------------|
 | Andem, Prince Christopher] | [23/EG/ME/068] | [PrinceAndem2025] |
-| [Add name] | [Add reg. number] | [Add GitHub username] |
+| [Inyang endurance ] | [23/EG/ME/008] | [fifthtree] |
 | [Add name] | [Add reg. number] | [Add GitHub username] |
 
 ## ⚠️ Disclaimer
