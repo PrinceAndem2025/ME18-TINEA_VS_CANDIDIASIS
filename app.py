@@ -15,7 +15,7 @@ import streamlit as st
 from PIL import Image
 from tensorflow import keras
 
-MODEL_PATH = "me18_skin_classifier.keras"
+MODEL_PATH = "Tinea_Candidiasis_MobileNetV3.keras"
 CLASS_NAMES_PATH = "class_names.json"
 IMG_SIZE = (224, 224)
 
