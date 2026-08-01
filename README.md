@@ -110,7 +110,7 @@ git push -u origin main
 |------|---------------------|------------------|
 | Andem, Prince Christopher] | [23/EG/ME/068] | [PrinceAndem2025] |
 | [Inyang endurance ] | [23/EG/ME/008] | [fifthtree] |
-| [Add name] | [Add reg. number] | [Add GitHub username] |
+| [Nkanor, Ekemini Asuquo] | [23/EG/ME/058] | [ekemininkanor33-sudo] |
 
 ## ⚠️ Disclaimer
 This tool is a student mini-project for educational purposes only and is
