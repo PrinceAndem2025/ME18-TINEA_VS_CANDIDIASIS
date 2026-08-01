@@ -110,7 +110,8 @@ git push -u origin main
 |------|---------------------|------------------|
 | Andem, Prince Christopher] | [23/EG/ME/068] | [PrinceAndem2025] |
 | [Inyang endurance ] | [23/EG/ME/008] | [fifthtree] |
-| [Nkanor, Ekemini Asuquo] | [23/EG/ME/058] | [ekemininkanor33-sudo] |
+| [Nkanor, Ekemini Asuquo] | [23/EG/ME/058] | [ekemininkanor33-sudo] | 
+[ udoiwud Justice-Otobong Brain]. | [23/EG/ME/078] | [JusticeBrain]  |
 
 ## ⚠️ Disclaimer
 This tool is a student mini-project for educational purposes only and is
