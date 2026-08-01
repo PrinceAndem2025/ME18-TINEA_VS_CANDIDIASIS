@@ -108,7 +108,7 @@ git push -u origin main
 ## 👥 Team
 | Name | Registration Number | GitHub Username |
 |------|---------------------|------------------|
-| [Add name] | [Add reg. number] | [Add GitHub username] |
+| Andem, Prince Christopher] | [23/EG/ME/068] | [PrinceAndem2025] |
 | [Add name] | [Add reg. number] | [Add GitHub username] |
 | [Add name] | [Add reg. number] | [Add GitHub username] |
 
