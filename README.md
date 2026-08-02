@@ -114,7 +114,7 @@ git push -u origin main
 [ udoiwud Justice-Otobong Brain]. | [23/EG/ME/078] | [JusticeBrain]  |
 | [Akpan, Samuel Ubong] | [23/EG/ME/018] | [sammytex999-jpg] |
 | [Etukudoh, Jeremiah Uduak] | [23/EG/ME/028] | [jerryalex1] |
-| [Akpan Prince Ezekiel ] | [23/EG/ME/038] | [princelwise001] |
+| [Akpan, Prince Ezekiel ] | [23/EG/ME/038] | [princelwise001] |
 ## ⚠️ Disclaimer
 This tool is a student mini-project for educational purposes only and is
 **not a diagnostic medical device**. It should never be used as a
