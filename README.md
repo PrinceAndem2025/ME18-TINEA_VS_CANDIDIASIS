@@ -116,6 +116,7 @@ git push -u origin main
 | [Etukudoh, Jeremiah Uduak] | [23/EG/ME/028] | [jerryalex1] |
 | [Akpan, Prince Ezekiel ] | [23/EG/ME/038] | [princelwise001] |
 | [OBIANADI RAPHMARY CHINONSO] | [23/EG/ME/108] | [obiko001] |
+| [Monday Success Anthony] | [22/EG/ME/1798] | [successan212-cpu] |
 ## ⚠️ Disclaimer
 This tool is a student mini-project for educational purposes only and is
 **not a diagnostic medical device**. It should never be used as a
